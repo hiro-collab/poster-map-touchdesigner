@@ -6,7 +6,12 @@
 
 *.fbx
 
-*/Backup
+# TouchDesigner backups
+Backup/
+*/Backup/
+*.toe.autosave
+*.toe~
+
 */CrashAutoSave.*
 *.dmp
-Backup/
+
