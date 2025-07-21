@@ -1,2 +1,2 @@
 # poster-map-touchdesigner
-ポスター設置場所マップをTouchDesignerで表示したもの
+2025年参議院選ポスター設置場所マップの点群をTouchDesignerで表示したもの
