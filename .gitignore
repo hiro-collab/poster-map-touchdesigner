@@ -15,3 +15,4 @@ Backup/
 */CrashAutoSave.*
 *.dmp
 
+*.[0-9]*.toe
